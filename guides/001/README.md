@@ -1,4 +1,4 @@
 ## 3 Area pada repo git
 <p>
-  <img src="images/area-git.png"
+  <img src="images/area.png"
 </p>
