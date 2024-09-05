@@ -32,7 +32,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDJ1zzpKTw1mfYrlrv8qE0Qfbi85ya5K3yv5NYCefyA
 
 - Create New SSH keys Github
 <p align="center">
-  <img src="images/1.png" witdh="950" height="500" alt="Add New SSH key"/>
+  <img src="images/1.png" witdh="950" height="550" alt="Add New SSH key"/>
 </p>
 
 - Paste .pub wsl 
