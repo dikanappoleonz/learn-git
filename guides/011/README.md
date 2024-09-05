@@ -37,8 +37,8 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDJ1zzpKTw1mfYrlrv8qE0Qfbi85ya5K3yv5NYCefyA
 
 - Paste .pub wsl 
 <p align="center">
-  <img src="images/2.png" witdh="650" height="200" alt="key public wsl"/>
+  <img src="images/2.png" witdh="950" height="500" alt="key public wsl"/>
 </p>
 <p align="center">
-  <img src="images/3.png" witdh="650" height="200" alt="key public wsl"/>
+  <img src="images/3.png" witdh="950" height="500" alt="key public wsl"/>
 </p>
