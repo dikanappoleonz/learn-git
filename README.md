@@ -4,5 +4,6 @@
 
  ## Learning Git
 
-#### 1. [Environment Git](guides/001/README.md)
-#### 2. [Initialized](guides/002/README.md)
+- [Environment Git](guides/001/README.md)
+- [Initialized](guides/002/README.md)
+- [View Status](guides/003/README.md)
