@@ -7,7 +7,7 @@
 - [Environment Git](guides/001/README.md)
 - [Initialized](guides/002/README.md)
 - [View Status](guides/003/README.md)
-- [View Status](guides/004/README.md)
+- [Stagging Area](guides/004/README.md)
 - [View Status](guides/005/README.md)
 - [View Status](guides/006/README.md)
 - [View Status](guides/007/README.md)
