@@ -4,14 +4,14 @@
 git add <file>
 ```
 - seluruh list file 
-'''js
+```js
 git add . 
-'''
+```
 - mengeluarkan file dari staging area
-'''js
+```js
 git rm --cached <file>
-'''
+```
 - mengeluarkan directory dari staging area
-'''js
+```js
  git rm -r --cached <directory>
-'''
+```
