@@ -14,6 +14,6 @@ Git is a free and open source distributed <b>version control system</b> designed
 - [Log](guides/008/README.md)
 - [Checkout](guides/009/README.md)
 - [Merge](guides/010/README.md)
-- [Remote](guides/010/README.md)
+- [Remote](guides/011/README.md)
 
 Dokumentasi [https://git-scm.com/docs](https://git-scm.com/docs)
