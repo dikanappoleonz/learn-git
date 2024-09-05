@@ -23,8 +23,10 @@ The key's randomart image is:
 |    ...    .     |
 +----[SHA256]-----+
 
-//show key public
+
 dika@dikaharba:/mnt/c/Users/LENOVO/OneDrive/Documents/Github/git/learn-git$ cat /home/dika/.ssh/id_rsa.pub
+
+//show key public
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDJ1zzpKTw1mfYrlrv8qE0Qfbi85ya5K3yv5NYCefyA7nkjdc4kjB0PDKm7lLHzNGh1rqTRmZYsAQ+SwTMz4YfZJTDCBrtkmEdKbroAfxo1tGgFtsPCql98AdAiIWKPUPC1nEKWPdsiaPawTKUFh0ghvN3dxAl0bIUYOXtL1QNVh3KgK8W3LXZogBXT4dCGr5wZtQl4EFwKmLCH063hMbtakm0JnbPgjvjUzPOi9HgTuaMT7YRL95CzecKcazFkHMvI7BjWuK9vtsoo/EzXAyrpA5pqRI01P7CUefsZIVBdZXJlCGaJdY2J0cqeshKeW9gTVELpQs7sOYFUu1K1EUV3i5kUylTsy5DMGvrgSZNvD3jIxd8P9YFROCBWfdLMti6tUoIuv/KuvRzASMY4qlJvol1YgdLsxdKMRdNSQxawebuu7nyg+M9BZVO6i9013eAdpCdnyJ7Mhgb4vaeOGIb0YXc2vX4HW34Skk0B0ozriqZSpZIIGhTrQzMyOMdJzPc= dika@dikaharba
 ```
 
