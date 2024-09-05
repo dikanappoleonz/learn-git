@@ -7,5 +7,5 @@ git merge <branch>  // merge branch, disarankan checkout ke master terlebih dahu
 - <b>Three-way Merge:</b> atau biasa disebut merge commit (membuat commit baru dari hasil merge)
 
 ```js
-git merge <branch1> <branch2>  //comparison merge conflit
+git merge branch1 branch2  //comparison merge conflit
 ```
