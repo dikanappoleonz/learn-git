@@ -59,7 +59,7 @@ dika@dikaharba:/mnt/c/Users/LENOVO/OneDrive/Documents/Github/git/learn-git$ echo
 
 - Push to Remote Repo
 ```js
-git push -u learn-git main
+git push -u learn-git main //Update lokal repo to remote repo
 ```
 
 <p align="center">
