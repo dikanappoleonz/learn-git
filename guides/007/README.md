@@ -1,10 +1,10 @@
 ## Branch
 ```js
-git branch
+git branch //see branch
 ```
 - Example:
-'*' posisi HEAD/Pointer
 ```js
+// * posisi HEAD/Pointer
 git branch
   dika
   fatina
@@ -12,8 +12,8 @@ git branch
 ```
 - Options:
 ```js
-git branch <name_branch> = membuat branch baru
-git branch -d <name_branch> = menghapus branch yang sudah di merge
-git branch -D <name_branch> = menghapus branch yang belum di merge
-git branch --merged = melihat branch yang sudah di merge
+git branch <name_branch>  //membuat branch baru
+git branch -d <name_branch>  //menghapus branch yang sudah di merge
+git branch -D <name_branch>  //menghapus branch yang belum di merge
+git branch --merged  //melihat branch yang sudah di merge
 ```
