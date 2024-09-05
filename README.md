@@ -12,5 +12,5 @@
 - [Commit](guides/006/README.md)
 - [Branch](guides/007/README.md)
 - [Log](guides/008/README.md)
-- [Merge](guides/009/README.md)
-- [View Status](guides/010/README.md)
+- [Checkout](guides/009/README.md)
+- [Merge](guides/010/README.md)
