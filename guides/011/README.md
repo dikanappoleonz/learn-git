@@ -40,7 +40,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDJ1zzpKTw1mfYrlrv8qE0Qfbi85ya5K3yv5NYCefyA
   <img src="images/2.png" witdh="950" height="500" alt="key public wsl"/>
 </p>
 <p align="center">
-  <img src="images/3.png" witdh="950" height="500" alt="key public wsl"/>
+  <img src="images/3.png" witdh="950" height="650" alt="key public wsl"/>
 </p>
 
 - Setup Remote SSH
