@@ -1,6 +1,6 @@
 ## Status file in staging area
 ```js
-git status
+<p style="color: blue;">git status</p>
 ```
 git-status - Show the working tree status
 - <b>Untracked files:</b> list file perlu dimasukkan ke staging area 
