@@ -63,5 +63,5 @@ git push -u learn-git main
 ```
 
 <p align="center">
-  <img src="images/4.png" witdh="1050" height="500" alt="result push"/>
+  <img src="images/4.png" witdh="1050" height="650" alt="result push"/>
 </p>
