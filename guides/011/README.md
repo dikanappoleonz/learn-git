@@ -45,7 +45,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDJ1zzpKTw1mfYrlrv8qE0Qfbi85ya5K3yv5NYCefyA
 
 - Setup Remote SSH
 ```js
-git branch -M main //merubah nama branch sesuai pada remotecd git
+git branch -M main //merubah nama branch sesuai pada remote repo
 
 git remote add <name_remote> git@github.com:dikanappoleonz/learn-git.git //Add new remote (default remote = origin)
 
@@ -54,7 +54,7 @@ git remote set-url <name_remote> git@github.com:dikanappoleonz/learn-git.git //M
 
 - Created new files README.md
 ```js
-dika@dikaharba:/mnt/c/Users/LENOVO/OneDrive/Documents/Github/git/learn-git$ echo "#Learning Git" > README.md
+dika@dikaharba:/mnt/c/Users/LENOVO/OneDrive/Documents/Github/git/learn-git$ echo "#Learning-Git" > README.md
 ```
 
 - Push to Remote Repo
@@ -63,5 +63,5 @@ git push -u learn-git main
 ```
 
 <p align="center">
-  <img src="images/4.png" witdh="950" height="500" alt="result push"/>
+  <img src="images/4.png" witdh="1050" height="500" alt="result push"/>
 </p>
