@@ -4,7 +4,7 @@
 dika@dikaharba:/mnt/c/Users/LENOVO/OneDrive/Documents/Github/git learn-git$ echo 'guides/013/' > .gitignore
 ```
 
-- Fromat .gitignore
+- Format .gitignore
 ```js
 name_files
 path_directory
