@@ -49,7 +49,7 @@ git branch -M main //merubah nama branch sesuai pada remote repo
 
 git remote add <name_remote> git@github.com:dikanappoleonz/learn-git.git //Add new remote (default remote = origin)
 
-git remote set-url <name_remote> git@github.com:dikanappoleonz/learn-git.git //Mengubah URL untuk akses remote seperto HTTPS ke SSH
+git remote set-url <name_remote> git@github.com:dikanappoleonz/learn-git.git //Mengubah URL untuk akses remote seperti HTTPS ke SSH
 ```
 
 - Created new files README.md
