@@ -9,10 +9,13 @@ git pull origin <branch>  //to update the local branch with the latest changes f
 git push  //Update lokal repo to remote repo
 ```
 ```js
-git push -u learn-git main //The fisrt time push commit
+git push origin branch //Spesifik push
+```
+```js
+git push -u origin branch//The fisrt time push commit
 ```
 
 - fetch
 ```js
-git fecth <remote_name> //Download the latest update from the remote repository
+git fecth origin //Download the latest update from the remote repository
 ```
