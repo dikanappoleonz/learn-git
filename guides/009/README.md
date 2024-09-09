@@ -4,7 +4,7 @@ move branch
 git checkout <name_branch>
 ```
 ```js
-git checkout -b <branch> //membuat dan pindah ke branch yang diinginkan
+git checkout -b <branch> //Add and move branch
 ```
 rollback commit
 ```js
