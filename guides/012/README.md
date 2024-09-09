@@ -1,20 +1,18 @@
 ## Push & Pull
 - pull
-git pull adalah kombinasi git fetch dan git merge
 ```js
-git pull origin <branch>//Fetch from and integrate with another repository or a local branch
+git pull origin <branch>  //to update the local branch with the latest changes from the remote repository.
 ```
 
 - push
 ```js
-git push 
+git push  //Update lokal repo to remote repo
 ```
 ```js
-git push -u learn-git main //Update lokal repo to remote repo
+git push -u learn-git main //The fisrt time push commit
 ```
 
 - fetch
-untuk memeriksa update dari remote repo
 ```js
-git fecth <remote_name> //Download objects and refs from another repository
+git fecth <remote_name> //Download the latest update from the remote repository
 ```
