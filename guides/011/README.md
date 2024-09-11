@@ -32,15 +32,15 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDJ1zzpKTw1mfYrlrv8qE0Qfbi85ya5K3yv5NYCefyA
 
 - Create New SSH keys Github
 <p align="center">
-  <img src="images/1.png" witdh="950" height="545" alt="Add New SSH key"/>
+  <img src="images/1.png" witdh="50%" height="50%" alt="Add New SSH key"/>
 </p>
 
 - Paste .pub wsl 
 <p align="center">
-  <img src="images/2.png" witdh="950" height="555" alt="key public wsl"/>
+  <img src="images/2.png" witdh="50%" height="50%" alt="key public wsl"/>
 </p>
 <p align="center">
-  <img src="images/3.png" witdh="950" height="580" alt="key public wsl"/>
+  <img src="images/3.png" witdh="50%" height="50%" alt="key public wsl"/>
 </p>
 
 - Setup Remote SSH
@@ -63,5 +63,5 @@ git push -u learn-git main //Update lokal repo to remote repo
 ```
 
 <p align="center">
-  <img src="images/4.png" witdh="1050" height="650" alt="result push"/>
+  <img src="images/4.png" witdh="50%" height="50%" alt="result push"/>
 </p>
