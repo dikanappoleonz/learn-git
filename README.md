@@ -3,7 +3,7 @@
 </p>
 
  ## Learning Git
-Git is a free and open source distributed <b>version control system</b> designed to handle everything from small to very large projects with speed and efficiency.
+> Git is a free and open source distributed <b>version control system</b> designed to handle everything from small to very large projects with speed and efficiency.
 - [Environment Git](guides/001/README.md)
 - [Initialized](guides/002/README.md)
 - [View Status](guides/003/README.md)
